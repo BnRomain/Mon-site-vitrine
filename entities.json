@@ -4,20 +4,21 @@
     "name": "Top Semantic Entities",
     "description": "Core knowledge graph entities extracted for LLM ingestion.",
     "about": [
-        "Maths",
+        "Mathématiques Appliquées et Modélisation",
         "Gmail",
         "API",
         "VPS",
         "DCT",
         "CSR",
         "Polytech Nice Sophia",
-        "Rémy",
+        "Rémy Ginoux",
         "PME",
         "ETI",
-        "Ensemble",
         "HTML",
         "CSS",
         "JPEG",
-        "Knowledge Management"
+        "n8n",
+        "Knowledge Management",
+        "OptimizIA"
     ]
 }
